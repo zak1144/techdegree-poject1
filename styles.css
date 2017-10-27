@@ -76,6 +76,14 @@ header .profile-image {
 header .profile-image:hover {
   transform: scale(1.2) rotate(360deg);
 }
+main .uni-img{
+  width: 90px;
+  height: 90px;
+  border-radius: 50%;
+  float:right;
+  xpadding:20px 40px 40px 20px;
+ xmargin: 8px 0px 0px 15px;
+}
 .tag { 
   background-color: #efefef;
   color: black;
