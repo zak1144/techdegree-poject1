@@ -81,8 +81,10 @@ main .uni-img{
   height: 90px;
   border-radius: 50%;
   float:right;
-  xpadding:20px 40px 40px 20px;
- xmargin: 8px 0px 0px 15px;
+
+}
+main .floatuni{
+  float:left;
 }
 .tag { 
   background-color: #efefef;
